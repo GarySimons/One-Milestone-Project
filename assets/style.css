@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap:100,200,300,400,500,600,700');
+
+
+/* ------------------------------------------General */
+
+.body {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    color: #808080;
+}
+
+/* ------------------------------------------Home Page */
+
+.home-container {
+    height: 100vh;
+    
+    background: url("./images/flower_main.jpg") no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+..navbar {
+    
+}
+
+.navbar-nav {
+    color: white;
+}
+
+.intro {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    color: #808080;
+    text-align: center;
+}
+
+.intro-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+/* ------------------------------------------Shop page */
+
+.Head2 {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    color: #808080;
+    text-align: center;
+}
+
+.subhead {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    color: #808080;
+    text-align: center;
+}
