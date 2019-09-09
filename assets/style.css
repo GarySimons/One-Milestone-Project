@@ -5,16 +5,21 @@
 
 .body {
     font-family: 'Merriweather', serif;
-    font-weight: 300;
-    color: #808080;
+    font-weight: 400;
+    color: red;
 }
 
 /* ------------------------------------------Home Page */
 
+.navbar-block {
+    padding-bottom: 10px;
+    background: red;
+}
+
 .home-container {
     height: 100vh;
     
-    background: url("./images/flower_main.jpg") no-repeat bottom right fixed;
+    background: url("./images/flower_main_big.jpg") no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -36,12 +41,8 @@
     background-color: rgba(0,0,0,0.5);
 }
 
-..navbar {
+.navbar {
     
-}
-
-.navbar-nav {
-    color: white;
 }
 
 .intro {
@@ -59,6 +60,19 @@
     width: 100%;
 }
 
+.round-button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #808080;
+}
+
+.round-button:hover {
+    color: #fff;
+    background-color: #660066;
+}
+
 /* ------------------------------------------Shop page */
 
 .Head2 {
@@ -73,6 +87,10 @@
     font-weight: 300;
     color: #808080;
     text-align: center;
+}
+
+.flower {
+    padding-bottom: 30px;
 }
 
 
