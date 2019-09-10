@@ -15,8 +15,7 @@
 <body>
 
   <!-- Nav bar -->
-
-<nav class="navbar navbar-expand-sm navbar-light bg-dark">
+  <nav class="navbar navbar-expand-sm navbar-light bg-dark">
     <a class="navbar-brand" href="#">
     <img src="assets/images/wild_bunch_white.png" width="200" height="110" alt="Wild_Bunch_Logo">
   </a>
@@ -37,15 +36,13 @@
         <li class="nav-item">
           <a class="nav-link body" href="#">Social</a>
         </li>
-    </div>
-    </li>
-    </ul>
+      </ul>
     </div>
   </nav>
 
   <!-- Home Page -->
 
-  <div class="container mt-5">
+  <div class="container-fluid intro-container">
     <div class="row">
       <div class="col-12">
         <div class="intro">
@@ -59,30 +56,31 @@
 
 
   <!-- Shop Page -->
-
-  <div class="container-fluid Head2 mt-5 ">
-    <h2>Bouquets</h2>
-    <p class="subhead">Choose from any one of our beautiful arrangements</p>
-  </div>
-  <div class="container mt-5">
-    <div class="row">
-      <div class="col-sm-12 col-md-6 col-lg-4 flower">
+  <div class="container-fluid shop-container">
+    <div class="container-fluid Head2">
+      <h2>Bouquets</h2>
+      <p class="subhead">Choose from any one of our beautiful arrangements</p>
+    </div>
+    <div class="container mt-5">
+      <div class="row">
+        <a class="col-sm-12 col-md-6 col-lg-4 flower href=" # "">
         <img src="assets/images/flower1.jpg" width="100%" height="100%" alt="Flower1">
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-4 flower">
-        <img src="assets/images/flower2.jpg" width="100%" height="100%" alt="Flower2">
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-4 flower">
-        <img src="assets/images/flower3.jpg" width="100%" height="100%" alt="Flower3">
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-4 flower">
-        <img src="assets/images/flower4.jpg" width="100%" height="100%" alt="Flower4">
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-4 flower">
-        <img src="assets/images/flower5.jpg" width="100%" height="100%" alt="Flower5">
-      </div>
-      <div class="col-sm-12 col-md-6 col-lg-4 flower">
-        <img src="assets/images/flower6.jpg" width="100%" height="100%" alt="Flower6">
+      </a>
+        <div class="col-sm-12 col-md-6 col-lg-4 flower">
+          <img src="assets/images/flower2.jpg" width="100%" height="100%" alt="Flower2">
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4 flower">
+          <img src="assets/images/flower3.jpg" width="100%" height="100%" alt="Flower3">
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4 flower">
+          <img src="assets/images/flower4.jpg" width="100%" height="100%" alt="Flower4">
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4 flower">
+          <img src="assets/images/flower5.jpg" width="100%" height="100%" alt="Flower5">
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-4 flower">
+          <img src="assets/images/flower6.jpg" width="100%" height="100%" alt="Flower6">
+        </div>
       </div>
     </div>
   </div>
@@ -90,13 +88,13 @@
 
   <!-- About Page -->
 
-  <div class="container mt-5">
+  <div class="container about-container">
     <div class="row">
       <div class="col-sm-12 col-md-6 col-lg-4">
         <h3 class="body">About Us</h3>
         <p class="body">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe provident maiores enim magnam nobis, illo ut! Cumque culpa ipsa explicabo nostrum quidem est et nihil nam alias reprehenderit quis fugit qui, temporibus delectus aperiam beatae aspernatur
-          modi optio tenetur, ipsum ut. Tempora dolor culpa aperiam eum earum nisi dignissimos et.
+          We're passionate about flowers, and love seeing the joy they bring. Launched in 2006 in Sally Blundle and Rosie Davenport, Wild Bunch has been at the heart of London's flower sceen. 
+          Originally based in Chapel Market, Islington, Sally and Rosie moved to their current Soho home in 2009.
         </p>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-4">
@@ -114,79 +112,80 @@
         </p>
       </div>
     </div>
+  </div>
 
-    <!-- Contact Page -->
+  <!-- Contact Page -->
 
-    <div class="container mt-5">
-      <div class="row">
-        <div class="col-sm-12 col-md-4">
-          <h3 class="body">Contact Us</h3>
-          <p class="body">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe provident maiores enim magnam nobis, illo ut! Cumque culpa ipsa explicabo nostrum quidem est et nihil nam alias reprehenderit quis fugit qui, temporibus delectus aperiam beatae aspernatur
-            modi optio tenetur, ipsum ut. Tempora dolor culpa aperiam eum earum nisi dignissimos et.
-          </p>
-          <!-- map tutorial from https://developers.google.com/maps/documentation/javascript/adding-a-google-map -->
-        </div>
-        <div class="col-sm-12 col-md-8">
-          <div id="map">
-            <style>
-              #map {
-                width: 100%;
-                height: 400px;
-                background-color: grey;
-              }
-            </style>
-          </div>
+  <div class="container contact-container">
+    <div class="row">
+      <div class="col-sm-12 col-md-4">
+        <h3 class="body">Contact Us</h3>
+        <p class="body">
+          40 Greek Street</br>London</br>W1D 4EB</br>44 (0)20 7734 5188</br>info@wildbunch.co.uk
+        </p>
+      </div>
+      <!-- map tutorial from https://developers.google.com/maps/documentation/javascript/adding-a-google-map -->
+      <div class="col-sm-12 col-md-8">
+        <div id="map">
+          <style>
+            #map {
+              width: 100%;
+              height: 400px;
+              background-color: grey;
+            }
+          </style>
         </div>
       </div>
     </div>
+  </div>
+  </div>
 
 
-<!-- Footer Social -->
+  <!-- Footer Social -->
 
-    <footer>
-      <div class="container-fluid mt-5">
-        <div class="col-sm-12">
-          <ul class="list-inline social-links">
-            <li class="list-inline-item">
-              <a target="_blank" href="#">
+  <footer>
+    <div class="container-fluid social-container">
+      <div class="col-sm-12">
+        <ul class="list-inline social-links">
+          <li class="list-inline-item">
+            <a target="_blank" href="#">
             <i class="fa fa-facebook" aria-hidden="true"></i>
               <span class="sr-only">Facebook</span>
           </a>
-            </li>
-            <li class="list-inline-item">
-              <a target="_blank" href="#">
+          </li>
+          <li class="list-inline-item">
+            <a target="_blank" href="#">
             <i class="fa fa-twitter" aria-hidden="true"></i>
               <span class="sr-only">Twitter</span>
           </a>
-            </li>
-            <li class="list-inline-item">
-              <a target="_blank" href="#">
+          </li>
+          <li class="list-inline-item">
+            <a target="_blank" href="#">
              <i class="fa fa-pinterest" aria-hidden="true"></i>
               <span class="sr-only">Pinterest</span>
              </a>
-            </li>
-            <li class="list-inline-item">
-              <a target="_blank" href="#">
+          </li>
+          <li class="list-inline-item">
+            <a target="_blank" href="#">
              <i class="fa fa-instagram" aria-hidden="true"></i>
                 <span class="sr-only">Instagram</span>
           </a>
-            </li>
-            <li class="list-inline-item">
-              <a target="_blank" href="#">
+          </li>
+          <li class="list-inline-item">
+            <a target="_blank" href="#">
             <i class="fa fa-youtube" aria-hidden="true"></i>
            </a>
-            </li>
-          </ul>
-        </div>
+          </li>
+        </ul>
       </div>
-    </footer>
-    
-<!-- Bootstrap JavaScript -->
-    
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JavaScript -->
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 
 </html>

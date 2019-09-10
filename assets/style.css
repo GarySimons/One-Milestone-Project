@@ -3,23 +3,22 @@
 
 /* ------------------------------------------General */
 
+body {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    color: #808080;
+}
+
 .body {
     font-family: 'Merriweather', serif;
-    font-weight: 400;
-    color: red;
+    font-weight: 300;
+    color: #808080;
 }
 
-/* ------------------------------------------Home Page */
-
-.navbar-block {
-    padding-bottom: 10px;
-    background: red;
-}
-
-.home-container {
+.intro-container {
     height: 100vh;
-    
-    background: url("./images/flower_main_big.jpg") no-repeat bottom right fixed;
+
+    background: url(./images/flower_main_big.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -28,17 +27,41 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    
-    position: relative;
 }
 
-.opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
+.shop-container {
     height: 100%;
-    width: 100%;
-    background-color: rgba(0,0,0,0.5);
+    padding-top: 30px;
+    background-color: red;
+}
+
+.about-container {
+    height: 100%;
+    padding-top: 30px;
+    background-color: green;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-container {
+    height: 100%;
+    padding-top: 30px;
+    background-color: red;
+}
+
+.social-container {
+    padding-top: 30px;
+    background-color: green;
+}
+
+
+/* ------------------------------------------Home Page */
+
+.navbar-block {
+    padding-bottom: 10px;
+    background: red;
 }
 
 .navbar {
@@ -48,16 +71,8 @@
 .intro {
     font-family: 'Merriweather', serif;
     font-weight: 300;
-    color: #808080;
+    color: #fff;
     text-align: center;
-}
-
-.intro-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
 }
 
 .round-button {
