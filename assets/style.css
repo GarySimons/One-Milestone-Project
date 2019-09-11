@@ -7,6 +7,7 @@ body {
     font-family: 'Merriweather', serif;
     font-weight: 300;
     color: #808080;
+    letter-spacing: 3px;
 }
 
 .body {
@@ -15,9 +16,15 @@ body {
     color: #808080;
 }
 
+.white-text {
+    color: #fff;
+}
+
 .intro-container {
     height: 100vh;
 
+    position: relative;
+    
     background: url(./images/flower_main_big.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -49,7 +56,7 @@ body {
     height: 100%;
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: #660066;
+    background-color: #808080;
 }
 
 .social-container {
@@ -65,31 +72,46 @@ body {
         padding-bottom: 20px;
 }
 
+/* ------------------------------------------Navbar */
 
-/* ------------------------------------------Home Page */
-
-.navbar-block {
-    padding-bottom: 10px;
-    background: red;
+.nav-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    z-index: 1;
 }
 
 .navbar {
-    
+    margin-bottom: 0;
+    border: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
 }
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+/* ------------------------------------------Home Page */
 
 .intro {
     font-family: 'Merriweather', serif;
     font-weight: 300;
     color: #fff;
     text-align: center;
+    letter-spacing: 3px;
 }
 
 .round-button {
     height: 100px;
     width: 100px;
     border-radius: 50%;
+    border: 0;
     color: #fff;
-    background-color: #808080;
+    background-color: rgba(0,0,0,0.5);
+    letter-spacing: 3px;
 }
 
 .round-button:hover {
@@ -104,13 +126,16 @@ body {
     font-weight: 300;
     color: #808080;
     text-align: center;
+    letter-spacing: 3px;
 }
 
 .subhead {
     font-family: 'Merriweather', serif;
+    font-size: 20px;
     font-weight: 300;
     color: #808080;
     text-align: center;
+    letter-spacing: 3px;
 }
 
 .flower {
@@ -120,6 +145,7 @@ body {
     color: red;
     text-align: center;
     font-size: 12px;
+    letter-spacing: 3px;
 }
 
 .flower-prices {
@@ -129,6 +155,7 @@ body {
     text-align: center;
     font-size: 3px;
     padding-bottom: 10px;
+    letter-spacing: 3px;
 }
 
 /* ------------------------------------------Footer Social */
