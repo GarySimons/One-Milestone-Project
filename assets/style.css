@@ -197,6 +197,7 @@ footer {
 
 
 .FlowerImage {
+    display: flex;
     padding-bottom: 30px;
     align-items: center;
     justify-content: center;
