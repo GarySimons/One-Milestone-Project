@@ -221,10 +221,14 @@ footer {
 
 /* Flower Pages */
 
+.modal-content {
+    padding: 10px;
+    background-color: #fff;
+}
 
-.FlowerImage {
-    display: flex;
-    padding-bottom: 30px;
+
+.flower-image {
+    padding-bottom: 50px;
     align-items: center;
     justify-content: center;
 }
@@ -237,7 +241,7 @@ footer {
     text-align: center;
 }
 
-.FlowerText {
+.flower-text{
     padding-bottom: 10px;
     text-decoration: none;
     font-family: 'Merriweather', serif;
