@@ -5,16 +5,13 @@
 
 body {
     font-family: 'Merriweather', serif;
+    font-size: 14px;
     font-weight: 300;
     color: #808080;
     letter-spacing: 3px;
 }
 
-.body {
-    font-family: 'Merriweather', serif;
-    font-weight: 300;
-    color: #808080;
-}
+
 
 .white-text {
     color: #fff;
@@ -47,11 +44,22 @@ body {
 .about-container {
     height: 100%;
     padding-top: 30px;
+    padding-bottom: 0px;
     background-color: #fff;
     
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#subheadabout {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #808080;
+    text-align: center;
+    letter-spacing: 3px;
+    padding-bottom: 40px;
 }
 
 .contact-container {
@@ -62,6 +70,7 @@ body {
     padding-right: 35px;
     background-color: #808080;
 }
+
 
 .social-container {
     padding-top: 0px;
