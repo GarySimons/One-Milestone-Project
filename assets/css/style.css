@@ -161,13 +161,17 @@ body {
 
 .flower {
     width: 100%;
-    padding: 30px;
+    padding-bottom:10px;
     font-family: 'Merriweather', serif;
     font-weight: 700;
     color: #808080;
     text-align: center;
     font-size: 12px;
     letter-spacing: 3px;
+}
+
+.flowername {
+    padding-top: 10px;
 }
 
 .flower-prices {
