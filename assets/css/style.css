@@ -25,7 +25,7 @@ body {
 
     position: relative;
     
-    background: url(assets/images/flower_main_big.jpg) no-repeat center center fixed; 
+    background: url(flower_main_big.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,6 +34,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    
     background-color: green;
 }
 
@@ -139,7 +140,7 @@ body {
     border: 0;
 }
 
-/* Shop page */
+/* Shopping page */
 
 .Head2 {
     font-family: 'Merriweather', serif;
@@ -159,7 +160,8 @@ body {
 }
 
 .flower {
-    padding-bottom: 30px;
+    width: 100%;
+    padding: 30px;
     font-family: 'Merriweather', serif;
     font-weight: 700;
     color: #808080;
@@ -174,13 +176,11 @@ body {
     color: #808080;
     text-align: center;
     font-size: 3px;
+    padding-top: 0px;
     padding-bottom: 10px;
     letter-spacing: 3px;
 }
 
-#flower01 {
-    
-}
 
 /* Contact Us */
 
