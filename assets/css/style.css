@@ -25,7 +25,7 @@ body {
 
     position: relative;
     
-    background: url(./images/flower_main_big.jpg) no-repeat center center fixed; 
+    background: url(assets/images/flower_main_big.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,7 +34,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: blue;
+    background-color: green;
 }
 
 .shop-container {
@@ -112,7 +112,7 @@ body {
     max-width: 200px;
     max-height: auto;
 }
-  
+
 /* Home Page */
 
 .intro {
@@ -179,7 +179,7 @@ body {
 }
 
 #flower01 {
-    align: center;
+    
 }
 
 /* Contact Us */
@@ -232,36 +232,17 @@ footer {
 
 /* Flower Pages */
 
-
-/* Modal */
-
-.modal {
-    justify-content: center;
-}
-
 .modal-content {
     padding: 10px;
     background-color: #fff;
 }
 
-.modal-header {
-    text-align: center;
-}
-
-#modal-footer {
-    align-items: center;
-}
 
 .flower-image {
-    padding-top: 20px;
-    padding-bottom: 30px;
-    max-width: 100%;
-    max-height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    padding-bottom: 50px;
+    align-items: center;
+    justify-content: center;
 }
-
 
 .flowercontainer {
     padding-top: 150px;
@@ -289,7 +270,6 @@ footer {
     color: #fff;
     background-color: rgba(0,0,0,0.5);
     letter-spacing: 3px;
-    text-align: center;
 }
 
 .buy-button:hover {
