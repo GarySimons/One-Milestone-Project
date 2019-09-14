@@ -251,6 +251,11 @@ footer {
 
 /* Flower Pages */
 
+
+#modaltitle {
+    text-align: center;
+}
+
 .modal-content {
     padding: 10px;
     background-color: #fff;
@@ -258,9 +263,11 @@ footer {
 
 
 .flower-image {
-    padding-bottom: 50px;
-    align-items: center;
-    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    width: 100%;
+    height: auto;
+
 }
 
 .flowercontainer {
@@ -279,6 +286,10 @@ footer {
     color: #808080;
     text-align: center;
     letter-spacing: 3px;
+}
+
+.button {
+    text-align: center;
 }
 
 .buy-button {
