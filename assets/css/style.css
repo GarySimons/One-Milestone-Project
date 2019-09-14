@@ -34,6 +34,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: blue;
 }
 
 .shop-container {
@@ -68,16 +69,16 @@ body {
 }
 
 .space-container {
-    height: 100%;
+    height: 20px;
     background-color: #fff;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
 }
 
-.flower-logo {
-    height: 5px;
-    width: 20px;
+#flowerlogo {
+    height: 25px;
+    width: 100px;
 }
 
 /* Navbar */
@@ -102,6 +103,16 @@ body {
     border: 0;
 }
 
+#navbarbrand {
+    width: 200px;
+    height: 110px;
+}
+
+#wildbunchlogo {
+    max-width: 200px;
+    max-height: auto;
+}
+  
 /* Home Page */
 
 .intro {
@@ -168,7 +179,7 @@ body {
 }
 
 #flower01 {
-    
+    align: center;
 }
 
 /* Contact Us */
@@ -221,17 +232,36 @@ footer {
 
 /* Flower Pages */
 
+
+/* Modal */
+
+.modal {
+    justify-content: center;
+}
+
 .modal-content {
     padding: 10px;
     background-color: #fff;
 }
 
+.modal-header {
+    text-align: center;
+}
+
+#modal-footer {
+    align-items: center;
+}
 
 .flower-image {
-    padding-bottom: 50px;
-    align-items: center;
-    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    max-width: 100%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 .flowercontainer {
     padding-top: 150px;
@@ -259,6 +289,7 @@ footer {
     color: #fff;
     background-color: rgba(0,0,0,0.5);
     letter-spacing: 3px;
+    text-align: center;
 }
 
 .buy-button:hover {
