@@ -205,11 +205,19 @@ body {
     letter-spacing: 3px;
 }
 
+.custom-select {
+    font-family: 'Merriweather', serif;
+    font-weight: 100;
+    color: #808080;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 3px;
+    
+}
 
 /* Contact Us */
 
 #email {
-    
     color: #fff;
     text-decoration: none;
 }
