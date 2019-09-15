@@ -137,6 +137,11 @@ body {
     letter-spacing: 3px;
 }
 
+#shopbutton {
+    align-items: center;
+    justify-content: center;
+}
+
 .round-button {
     height: 100px;
     width: 100px;
@@ -145,6 +150,8 @@ body {
     color: #fff;
     background-color: rgba(0,0,0,0.5);
     letter-spacing: 3px;
+    
+
 }
 
 .round-button:hover {
