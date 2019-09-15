@@ -190,6 +190,19 @@ body {
     letter-spacing: 3px;
 }
 
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.flower:hover .image{
+  opacity: 0.7;
+}
+
 .flowername {
     padding-top: 10px;
 }
@@ -281,7 +294,6 @@ footer {
     padding-bottom: 30px;
     width: 100%;
     height: auto;
-
 }
 
 .flowercontainer {
