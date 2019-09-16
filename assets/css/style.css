@@ -134,7 +134,7 @@ body {
 
 /* Home Page */
 
-.intro {
+#intro {
     font-family: 'Merriweather', serif;
     font-weight: 300;
     color: #fff;
@@ -175,7 +175,7 @@ body {
     letter-spacing: 3px;
 }
 
-.subhead {
+#subhead {
     font-family: 'Merriweather', serif;
     font-size: 20px;
     font-weight: 300;
