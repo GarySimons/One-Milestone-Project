@@ -147,6 +147,25 @@ body {
     justify-content: center;
 }
 
+#shopbutton2 {
+    text-decoration: none;
+    padding-top: 40px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.5);
+    letter-spacing: 3px;
+}
+
+#shopbutton2:hover {
+    color: #fff;
+    background-color: #660066;
+    border: 0;
+}
+
 .round-button {
     height: 100px;
     width: 100px;
