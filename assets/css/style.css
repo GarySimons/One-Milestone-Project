@@ -3,6 +3,14 @@
 
 /* General */
 
+p {
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 body {
     font-family: 'Merriweather', serif;
     font-size: 14px;
@@ -228,7 +236,19 @@ body {
 }
 
 .flowername {
+    font-weight: 100;
+    font-size: 16px;
+    color: #808080;
     padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.flowerprice {
+    font-weight: 100;
+    padding-top: 0;
+    padding-bottom: 5px;
+    color: #808080;
+    font-size: 13px
 }
 
 .flower-prices {
@@ -238,7 +258,7 @@ body {
     text-align: center;
     font-size: 3px;
     padding-top: 0px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     letter-spacing: 3px;
 }
 
@@ -253,6 +273,20 @@ body {
 }
 
 /* Contact Us */
+
+.aboutHead {
+    padding-bottom: 7px;
+    padding-top: 15px;
+
+}
+
+.contactHead {
+    padding-bottom: 7px;
+}
+
+.emailText {
+    padding-bottom: 30px;
+}
 
 #email {
     color: #fff;
@@ -345,7 +379,7 @@ footer {
 }
 
 .flower-text{
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     text-decoration: none;
     font-family: 'Merriweather', serif;
     font-weight: 300;
