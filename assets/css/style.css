@@ -3,7 +3,6 @@
 
 /* General */
 
-
 body {
     font-family: 'Merriweather', serif;
     font-size: 14px;
@@ -14,10 +13,6 @@ body {
 
 .body{
     text-align: center;
-}
-
-.white-text {
-    color: #fff;
 }
 
 .introcontainer {
@@ -53,15 +48,6 @@ body {
     justify-content: center;
 }
 
-#subheadabout {
-    font-family: 'Merriweather', serif;
-    font-size: 20px;
-    font-weight: 300;
-    color: #808080;
-    text-align: center;
-    letter-spacing: 3px;
-    padding-bottom: 30px;
-}
 
 .contactcontainer {
     height: 100%;
@@ -101,6 +87,8 @@ body {
     width: 100px;
 }
 
+
+
 /* Navbar */
 
 .nav-container {
@@ -133,6 +121,8 @@ body {
     height: auto;
 }
 
+
+
 /* Home Page */
 
 #intro {
@@ -141,11 +131,6 @@ body {
     color: #fff;
     text-align: center;
     letter-spacing: 3px;
-}
-
-#shopbutton {
-    align-items: center;
-    justify-content: center;
 }
 
 #shopbutton2 {
@@ -243,15 +228,26 @@ body {
     text-align: center;
     font-size: 12px;
     letter-spacing: 3px;
-    
-}
+    }
 
-/* Contact Us */
+
+
+/* About Us & Contact Us */
 
 .abouthead {
     padding-bottom: 7px;
     padding-top: 15px;
 
+}
+
+#subheadabout {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #808080;
+    text-align: center;
+    letter-spacing: 3px;
+    padding-bottom: 30px;
 }
 
 .contacthead {
@@ -275,6 +271,8 @@ body {
      font-size: 40px;
      border: 0;
 }
+
+
 
 /* Footer Social */
 
@@ -325,7 +323,9 @@ footer {
     border: 0;
 }
 
-/* Flower Pages */
+
+
+/* Modal Pages */
 
 
 #modaltitle {
