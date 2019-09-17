@@ -20,7 +20,7 @@ body {
     color: #fff;
 }
 
-.intro-container {
+.introcontainer {
     height: 100vh;
 
     position: relative;
@@ -36,13 +36,13 @@ body {
     justify-content: center;
 }
 
-.shop-container {
+.shopcontainer {
     height: 100%;
     padding-top: 30px;
     background-color: #fff;
 }
 
-.about-container {
+.aboutcontainer {
     height: 100%;
     padding-top: 30px;
     padding-bottom: 0px;
@@ -60,10 +60,10 @@ body {
     color: #808080;
     text-align: center;
     letter-spacing: 3px;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
 }
 
-.contact-container {
+.contactcontainer {
     height: 100%;
     padding-top: 40px;
     padding-bottom: 35px;
@@ -73,13 +73,13 @@ body {
 }
 
 
-.social-container {
+.socialcontainer {
     padding-top: 0px;
     padding-bottom: 20px;
     background-color: #fff;
 }
 
-.space-container {
+.spacecontainer {
     height: 20px;
     background-color: #fff;
     text-align: center;
@@ -167,27 +167,9 @@ body {
     border: 0;
 }
 
-.round-button {
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    border: 0;
-    color: #fff;
-    background-color: rgba(0,0,0,0.5);
-    letter-spacing: 3px;
-    
-
-}
-
-.round-button:hover {
-    color: #fff;
-    background-color: #660066;
-    border: 0;
-}
-
 /* Shopping page */
 
-.Head2 {
+.head2 {
     font-family: 'Merriweather', serif;
     font-weight: 300;
     color: #808080;
@@ -266,18 +248,20 @@ body {
 
 /* Contact Us */
 
-.aboutHead {
+.abouthead {
     padding-bottom: 7px;
     padding-top: 15px;
 
 }
 
-.contactHead {
+.contacthead {
     padding-bottom: 7px;
+    color: #fff;
 }
 
-.emailText {
+.emailtext {
     padding-bottom: 30px;
+    color: #fff;
 }
 
 #email {
@@ -302,13 +286,13 @@ footer {
 }
 
 
-.social-links {
+.sociallinks {
     padding-top: 35px;
     padding-bottom: 15px;
     color: #808080;
 }
 
-.social-links li a i {
+.sociallinks li a i {
     width: 40px;
     height: 40px;
     padding: 20px 10px;
@@ -321,7 +305,7 @@ footer {
 
 }
 
-.social-links li a i:hover {
+.sociallinks li a i:hover {
     background: #660066;
 }
 
