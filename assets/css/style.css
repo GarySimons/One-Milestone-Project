@@ -187,7 +187,7 @@ body {
 
 /* Shopping page */
 
-.Head2 {
+.head2 {
     font-family: 'Merriweather', serif;
     font-weight: 300;
     color: #808080;
@@ -266,17 +266,17 @@ body {
 
 /* Contact Us */
 
-.aboutHead {
+.abouthead {
     padding-bottom: 7px;
     padding-top: 15px;
 
 }
 
-.contactHead {
+.contacthead {
     padding-bottom: 7px;
 }
 
-.emailText {
+.emailtext {
     padding-bottom: 30px;
 }
 
@@ -302,13 +302,13 @@ footer {
 }
 
 
-.social-links {
+.sociallinks {
     padding-top: 35px;
     padding-bottom: 15px;
     color: #808080;
 }
 
-.social-links li a i {
+.sociallinks li a i {
     width: 40px;
     height: 40px;
     padding: 20px 10px;
@@ -321,7 +321,7 @@ footer {
 
 }
 
-.social-links li a i:hover {
+.sociallinks li a i:hover {
     background: #660066;
 }
 
@@ -348,13 +348,13 @@ footer {
     text-align: center;
 }
 
-.modal-content {
+.modalcontent {
     padding: 20px;
     background-color: #fff;
     align-items: center;
 }
 
-.flower-image {
+.flowerimage {
     padding-top: 20px;
     padding-bottom: 30px;
     width: 100%;
@@ -368,7 +368,7 @@ footer {
     text-align: center;
 }
 
-.flower-text{
+.flowertext{
     padding-bottom: 10px;
     text-decoration: none;
     font-family: 'Merriweather', serif;
@@ -382,7 +382,7 @@ footer {
     text-align: center;
 }
 
-.buy-button {
+.buybutton {
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -392,7 +392,7 @@ footer {
     letter-spacing: 3px;
 }
 
-.buy-button:hover {
+.buybutton:hover {
     color: #fff;
     background-color: #660066;
     border: 0;
