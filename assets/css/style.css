@@ -9,13 +9,16 @@ body {
     font-weight: 300;
     color: #808080;
     letter-spacing: 3px;
-}
-
-.body{
     text-align: center;
 }
 
-.introcontainer {
+#maincontainer {
+    padding: 0;
+    background-color: red;
+}
+
+
+#introcontainer {
     height: 100vh;
 
     position: relative;
@@ -31,43 +34,42 @@ body {
     justify-content: center;
 }
 
-.shopcontainer {
+#shopcontainer {
     height: 100%;
     padding-top: 30px;
-    background-color: #fff;
+    background-color: pink;
 }
 
-.aboutcontainer {
+#aboutcontainer {
     height: 100%;
     padding-top: 30px;
     padding-bottom: 0px;
-    background-color: #fff;
-    
+    background-color: none;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 
-.contactcontainer {
+#contactcontainer {
     height: 100%;
     padding-top: 40px;
     padding-bottom: 35px;
-    padding-left: 35px;
-    padding-right: 35px;
+    padding-left: 100px;
+    padding-right: 100px;
     background-color: #808080;
 }
 
 
-.socialcontainer {
+#socialcontainer {
     padding-top: 0px;
     padding-bottom: 20px;
-    background-color: #fff;
+    background-color: none;
 }
 
 .spacecontainer {
     height: 20px;
-    background-color: #fff;
+    background-color: green;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -95,25 +97,17 @@ body {
     font-size: 18px;
 }
 
-.nav-container {
-    position: absolute;
+#navcontainer {
+    position: sticky;
+    width: 100%;
     top: 0;
     left: 0;
     padding-left: 0;
     padding-right: 0;
     z-index: 1;
-}
-
-.navbar {
-    margin-bottom: 0;
-    border: 0;
-    width: 100%;
     background-color: rgba(0,0,0,0.5);
 }
 
-.navbar .navbar-toggler {
-    border: 0;
-}
 
 #navbarbrand {
     width: 200px;
@@ -122,7 +116,7 @@ body {
 
 #wildbunchlogo {
     padding: 10px;
-    max-width: 175px;
+    max-width: 170px;
     height: auto;
 }
 
