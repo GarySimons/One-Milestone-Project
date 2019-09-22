@@ -35,10 +35,9 @@ body {
 }
 
 #shopcontainer {
-    padding-left: 50px;
-    padding-right: 50px
     height: 100%;
     padding-top: 30px;
+    padding-bottom: 20px;
     background-color: none;
 }
 
@@ -70,7 +69,7 @@ body {
 
 .spacecontainer {
     height: 20px;
-    background-color: green;
+    background-color: none;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -93,6 +92,7 @@ body {
 
 
 /* Navbar */
+
 
 #navbarNavDropdown {
     font-size: 18px;
