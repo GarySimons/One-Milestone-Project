@@ -91,6 +91,10 @@ body {
 
 /* Navbar */
 
+#navbarNavDropdown {
+    font-size: 18px;
+}
+
 .nav-container {
     position: absolute;
     top: 0;
@@ -117,7 +121,8 @@ body {
 }
 
 #wildbunchlogo {
-    max-width: 200px;
+    padding: 10px;
+    max-width: 175px;
     height: auto;
 }
 
