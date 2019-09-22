@@ -30,7 +30,6 @@ body {
     -o-background-size: cover;
     background-size: cover;
     
-    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -155,7 +154,7 @@ body {
     color: #fff;
     background-color: #b04d87;
     border: 0;
-    transition: 1s ease-in-out;
+    transition: .5s ease-in-out;
 }
 
 /* Shopping page */
@@ -414,5 +413,5 @@ footer {
     color: #fff;
     background-color: #b04d87;
     border: 0;
-    transition: 1s ease;
+    transition: .5s ease;
 }
