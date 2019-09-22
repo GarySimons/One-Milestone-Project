@@ -13,7 +13,8 @@ body {
 }
 
 #maincontainer {
-    padding: 0;
+    margin: 0;
+    padding: 0px;
     background-color: none;
 }
 
@@ -39,6 +40,8 @@ body {
     padding-top: 30px;
     padding-bottom: 20px;
     background-color: none;
+        align-items: center;
+    justify-content: center;
 }
 
 #aboutcontainer {
@@ -57,7 +60,7 @@ body {
     padding-bottom: 45px;
     padding-left: 35px;
     padding-right: 35px;
-    background-color: #808080;
+    background-color: #660066;
 }
 
 
@@ -106,7 +109,7 @@ body {
     padding-left: 0;
     padding-right: 0;
     z-index: 1;
-    background-color: rgba(0,0,0,0.5);
+    background-color: #808080;
 }
 
 
@@ -167,6 +170,7 @@ body {
     color: #808080;
     text-align: center;
     letter-spacing: 3px;
+    padding-top: 30px;
 }
 
 #subhead {
@@ -176,6 +180,7 @@ body {
     color: #808080;
     text-align: center;
     letter-spacing: 3px;
+    padding-bottom: 20px;
 }
 
 .flower {
@@ -236,8 +241,7 @@ body {
     font-size: 12px;
     letter-spacing: 3px;
     }
-
-
+    
 
 /* About Us & Contact Us */
 
