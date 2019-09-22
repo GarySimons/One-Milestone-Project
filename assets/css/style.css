@@ -14,7 +14,7 @@ body {
 
 #maincontainer {
     padding: 0;
-    background-color: red;
+    background-color: none;
 }
 
 
@@ -35,9 +35,11 @@ body {
 }
 
 #shopcontainer {
+    padding-left: 50px;
+    padding-right: 50px
     height: 100%;
     padding-top: 30px;
-    background-color: pink;
+    background-color: none;
 }
 
 #aboutcontainer {
@@ -52,11 +54,10 @@ body {
 
 
 #contactcontainer {
-    height: 100%;
     padding-top: 40px;
-    padding-bottom: 35px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-bottom: 45px;
+    padding-left: 35px;
+    padding-right: 35px;
     background-color: #808080;
 }
 
@@ -153,6 +154,13 @@ body {
 
 /* Shopping page */
 
+#shoppage {
+    height: 125px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+    background-color: none;
+}
+
 .head2 {
     font-family: 'Merriweather', serif;
     font-weight: 300;
@@ -233,10 +241,23 @@ body {
 
 /* About Us & Contact Us */
 
+#aboutpage {
+    height: 125px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+    background-color: none;
+}
+
+#contactpage {
+    height: 125px;
+    padding-bottom: 40px;
+    padding-top: 60px;
+    background-color: none;
+}
+
 .abouthead {
     padding-bottom: 7px;
     padding-top: 15px;
-
 }
 
 #subheadabout {
