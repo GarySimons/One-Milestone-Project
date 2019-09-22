@@ -60,7 +60,7 @@ body {
     padding-bottom: 45px;
     padding-left: 35px;
     padding-right: 35px;
-    background-color: #660066;
+    background-color: #b04d87;
 }
 
 
@@ -103,11 +103,11 @@ body {
 
 #navcontainer {
     position: sticky;
-    width: 100%;
+    width: 100vw;
     top: 0;
     left: 0;
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 20px;
     z-index: 1;
     background-color: #808080;
 }
@@ -151,7 +151,7 @@ body {
 
 #shopbutton2:hover {
     color: #fff;
-    background-color: #660066;
+    background-color: #b04d87;
     border: 0;
 }
 
@@ -328,12 +328,12 @@ footer {
 }
 
 .sociallinks li a i:hover {
-    background: #660066;
+    background: #b04d87;
 }
 
 #backtotopbutton{
     color: #fff;
-    background-color: #660066;
+    background-color: #b04d87;
     text-decoration: none;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -402,6 +402,6 @@ footer {
 
 .buy-button:hover {
     color: #fff;
-    background-color: #660066;
+    background-color: #b04d87;
     border: 0;
 }
