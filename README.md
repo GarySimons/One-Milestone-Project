@@ -97,7 +97,11 @@ Boostnote helped me understand how to write in Markdown for this README.md file.
 
 ### Google Maps
 Google Maps was used to create my iframe in the contact section.
-[Google Maps] (https://www.google.com)
+[Google Maps] (https://www.google.co.uk/maps/)
+
+### Google Fonts
+Google Fonts was used to style up all the text on my site.
+[Google Fonts] (https://fonts.google.com/)
 
 ### Anna Gilhespy YouTube and website
 I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
@@ -127,8 +131,38 @@ I used this site to check my CSS code for any problems.
 ---
 
 ## Testing
-To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service] (https://validator.w3.org/), and [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/).
-This allowed me to catch any problems such as rouge puntuation marks or incorrect code.
-This helped me go back in and change the errors so my code was more efficient and worked properly.
+I have constantly tested my site using the inspect tools. This has allowed me to make sure the responsive design works correctly and looks good on all formats and sizes. I have used the tools here to see the outcome of different changes to my code and was able to use that to change the real HTML and CSS.
 
-I have constantly tested my site using the inspect tools. THis has allowed my to make sure the responsive design works correctly and looks good on all formats and sizes.
+To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service] (https://validator.w3.org/), and [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/).
+This allowed me to catch any problems such as rouge puntuation marks or incorrect code. This helped me go back in and change the errors so my code was more efficient and worked properly.
+
+---
+
+## Deployment
+My site is deployed on GitHub. I created a repository and used it for version control and sharing.
+
+---
+
+## Credits
+### Images
+All my images were sorced from the iStock image library.
+[iStock] (https://www.istockphoto.com/gb)
+
+### CSS Tricks
+CSS Tricks was used to help create my landing page background image.
+[CSS Tricks] (https://css-tricks.com/)
+
+---
+
+### Acknowledgements
+## McQueens
+I was inspired for some elements of my site for this website for McQueens Florist. It made me want to use a big beautiful image on my landing page. Am I really loved the shopping grid idea.
+[McQueens] (https://mcqueens.co.uk/)
+
+## That Flower Shop
+I really liked the simple typography and cleanness of this site. I took inspiration from it's rustic photography.
+[That Flower Shop] (https://www.thatflowershop.co.uk/)
+
+## Hawthorn Creative
+This site gave me useful information about how to put my site together. It had advice of what makes a good florist site and what customers are looking for.
+[Hawthorn Creative] (https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
