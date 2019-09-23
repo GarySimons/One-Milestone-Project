@@ -54,3 +54,41 @@ This shoping page has a large heading of 'Bouquets' to tell the user what's for 
 
 Ideally this shopping page would have more bouquets, and other sections in the same style for different products including house plants, vases and other accessories. The shop button could have a drop down sub menu to link to the various sections.
 
+### About us
+This page is used to build a relationship with the user and help them feel an affinity to the owners of the site. This shows the type of people they are and what they stand for, and their personalities. This will help make the user form a bond and feel like they want to use them. It will make them into real, passionate and caring people rather than just a faceless business.
+
+### Contact us
+This section of the site is there to provide practical information to the user. It gives the address, phone number and a contact email. An iframe with a link to a Google Map of the area helps the user to see their location. The map is able to open in and be explored.
+
+This area also holds link buttons which take the user to the various social sites that the company uses. They have a hover over them to show the user when they are activated.
+
+### Back to top button
+The logo in the navigation bar is a home button, but it’s also helpful to have this button to take the user instantly back to the home page.
+
+### Feature left to implement
+xxxx
+
+### Technologies used
+### Bootstrap
+Bootstrap was used to build the structure of the site, so was really helpful when building the nav bar, modals and selection drop down menus.
+[Bootstrap] (https://getbootstrap.com/)
+
+### Font Awesome
+Font Awesome was used to help create the social buttons. 
+[Font Awesome] (https://fontawesome.com/)
+
+### CSS Tricks
+CSS Tricks was used to help create my landing page background image.
+[CSS Tricks] (https://css-tricks.com/)
+
+### Balsamiq
+Balsamiq was used to create my wire frames at the start of the project and help plan the pages.
+[Balsamiq] (https://wireframestogo.com/)
+
+### Boostnote
+Boostnote helped me understand how to write in Markdown for this README.md file.
+[Boostnote] (https://boostnote.io/)
+
+### Google Maps
+Google Maps was used to create my iframe in the contact section.
+[Google Maps] (https://www.google.com)
