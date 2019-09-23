@@ -112,3 +112,23 @@ I used Traversy Media's video to understand how to write my Markdown for this RE
 I checked out this to help understand about user stories
 [Stormotion] (https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/)
 
+### GitHub
+I am using GitHub to store my project. I have had to use older versions of my code stored in GitHub on a couple of occasions when my code has broken.
+[GitHub] (https://github.com)
+
+### W3C Markup Validation Service
+I used this site to check my HTML code for any problems. 
+[W3C Markup Validation Service] (https://validator.w3.org/)
+
+### W3C CSS Validation Service
+I used this site to check my CSS code for any problems. 
+[W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/)
+
+---
+
+## Testing
+To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service] (https://validator.w3.org/), and [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/).
+This allowed me to catch any problems such as rouge puntuation marks or incorrect code.
+This helped me go back in and change the errors so my code was more efficient and worked properly.
+
+I have constantly tested my site using the inspect tools. THis has allowed my to make sure the responsive design works correctly and looks good on all formats and sizes.
