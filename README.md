@@ -43,3 +43,14 @@ Lastly I felt the user would benefit for a **back to top** button (in addition t
 ---
 
 ## Features
+### Navigation bar
+This holds all the links to the sections of the site: Logo (home button), about us and aontact us. This allows the user to navigate quickly to the relevant section. The bar is set to sticky, so scolls down with the pages, making it easier to navigate, and also show the range of sections all the time.
+
+### Home
+This is the first page a user comes to, and it has to make a big impact and entice them to want to go further. I used a large beautiful image of flowers to show the type of site it is. I added a large heading telling the user that this site belongs to 'A high class florist in the heart of London', to provide a clear message of the content. There is also a large 'shop' button to take you straight to the shopping pages and get you buying with one click.
+
+### Shopping
+This shoping page has a large heading of 'Bouquets' to tell the user what's for sale, and a sub heading urging them to 'choose from any of our beautiful arrangements'. A clean, simple grid holds stylish images of the bouquets,and underneath each image is the name and a price from. A subtle hover tells the user that they have activated the image, and with a click it opens a modal. Each modal show an image of the bouquet, with a description and a selection menu to prompt them to choose from small, medium or large versions. Underneath is a large 'buy now' button for easy instant buying. This would (if it where a live link) take you to the basket page and you would be able to fill in your details and complete your order. 
+
+Ideally this shopping page would have more bouquets, and other sections in the same style for different products including house plants, vases and other accessories. The shop button could have a drop down sub menu to link to the various sections.
+
