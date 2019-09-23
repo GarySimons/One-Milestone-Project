@@ -15,7 +15,6 @@ body {
 #maincontainer {
     margin: 0;
     padding: 0px;
-    background-color: none;
 }
 
 
@@ -40,7 +39,6 @@ body {
     padding-right: 4%;
     padding-top: 30px;
     padding-bottom: 20px;
-    background-color: none;
     justify-content: center;
 
 }
@@ -51,7 +49,6 @@ body {
     padding-right: 4%;
     padding-top: 30px;
     padding-bottom: 0px;
-    background-color: none;
     justify-content: center;
 }
 
@@ -68,12 +65,10 @@ body {
 #socialcontainer {
     padding-top: 0px;
     padding-bottom: 20px;
-    background-color: none;
 }
 
 .spacecontainer {
     height: 20px;
-    background-color: none;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -163,7 +158,6 @@ body {
     height: 125px;
     padding-bottom: 30px;
     padding-top: 60px;
-    background-color: none;
 }
 
 .head2 {
@@ -251,14 +245,12 @@ body {
     height: 125px;
     padding-bottom: 30px;
     padding-top: 60px;
-    background-color: none;
 }
 
 #contactpage {
     height: 125px;
     padding-bottom: 40px;
     padding-top: 60px;
-    background-color: none;
 }
 
 .abouthead {

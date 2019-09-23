@@ -65,10 +65,14 @@ This area also holds link buttons which take the user to the various social site
 ### Back to top button
 The logo in the navigation bar is a home button, but it’s also helpful to have this button to take the user instantly back to the home page.
 
+---
+
 ## Feature left to implement
 I would like to add more shopping pages to the site. They would follow the same style as the bouquets page, but be selling items associated with a florist. These could be house plants, garden plants, vases, pots, gardening tools and seeds. These would be on a drop down menu from the Nav Bar.
 
 Another idea would be a flower arranging school to be held at the shop. These would be popular for parties or just people with an interest. 
+
+---
 
 ## Technologies used
 ### Bootstrap
