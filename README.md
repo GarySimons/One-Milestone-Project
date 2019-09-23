@@ -65,10 +65,10 @@ This area also holds link buttons which take the user to the various social site
 ### Back to top button
 The logo in the navigation bar is a home button, but it’s also helpful to have this button to take the user instantly back to the home page.
 
-### Feature left to implement
+## Feature left to implement
 xxxx
 
-### Technologies used
+## Technologies used
 ### Bootstrap
 Bootstrap was used to build the structure of the site, so was really helpful when building the nav bar, modals and selection drop down menus.
 [Bootstrap] (https://getbootstrap.com/)
@@ -92,3 +92,16 @@ Boostnote helped me understand how to write in Markdown for this README.md file.
 ### Google Maps
 Google Maps was used to create my iframe in the contact section.
 [Google Maps] (https://www.google.com)
+
+### Anna Gilhespy YouTube and website
+I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
+[Anna Gilhespy] (https://ajgreaves.github.io/bootstrap-grid-demo/)
+[Anna Gilhespy] (https://www.youtube.com/watch?v=zDpCejbl1sU&feature=youtu.be)
+
+### Traversy Media - Markdown crash course
+I used Traversy Media's video to understand how to write my Markdown for this README.md file.
+[Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
+
+### Stormotion
+I checked out this to help understand about user stories
+[Stormotion] (https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/)
