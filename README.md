@@ -6,6 +6,8 @@
 ## User Story
 As a customer, I want to be able to buy some flowers simply and quickly.
 
+I also want to straight away feel as if I can trust this site to give me the service i want, and it's in my price range.
+
 ---
 
 ## Overview
@@ -22,7 +24,13 @@ A secondary purple colour works in harmony with the grey, and ties in with the f
 ---
 
 ## UX
-The user of this site is a high paid professional or someone with lots of disposable income. They want the best that money can buy, and want to impress people with it.
+**User 1: Well off professional.** The user here is a well paid professional or someone with lots of disposable income. They want the best that money can buy, and want to impress people with it. They want to feel that the company matches their expectations of quality and service. 
+
+**User 2: Couple getting married** The users here are a couple looking for a company to provide flowers for their wedding. They need to know if they like your style and it will fit with their plans. They also need to know if you are within their budget. Weddings are often planned far in advance, so they need to feel that you'll still be around for their big day. They have a lot of money and emotion invested in this, so trust and the long term relationship are important here.
+
+**User 3: Last minute surprise** The user here is looking to get flowers as a quick gift for someone. They need to know that you can be trusted to either have the flowers ready to be collected, or get them delivered on time. Convenience and speed are important factors here.
+
+
 
 By having the **landing page** as a beautiful flower image, the user immediately knows that they've come to a high-quality site. By not crowding the home page with clutter, I have created a calm and peaceful feel to make them relaxed and reasured. There is minimal furniture, making it feel more luxurious. Simple use of typography that simply states what the website does, and a large tastful button invites you to start shopping. 
 
@@ -32,7 +40,7 @@ Clicking on the **Shop** button takes the user to a simple, clean grid of bouque
 
 If the user is interested in one of the bouquets and wishes to discover more, then clicking on the image reveals a **modal**. This modal echoes the design of the shopping page, and has a description and a subheading asking to select from the three sizes that you would like, and a large **buy now** button to entice you. This would (if it where a live link) take you to the basket page where you would be able tp fill in your details and complete your order.
 
-Additionally, with the **about Us** section, I wanted to introduce and show the personality of the owners and what they believe in and stand for. I feel this helps the user to relate to the sellers as people with principles and standards that they themselves would like to think they have in common. This has a images to quickly establish the links. There are also a few paragraphs about their humble beginnings and their friendship, their services to show the range of occasions they cater for and about how they are very eco minded, with all their flowers being organically sourced from a local supplier. This makes them intio real, passionate and caring people rather than just a faceless business.
+Additionally, with the **about Us** section, I wanted to introduce and show the personality of the owners and what they believe in and stand for. I feel this helps the user to relate to the sellers as people with principles and standards that they themselves would like to think they have in common. This has a images to quickly establish the links. There are also a few paragraphs about their humble beginnings and their friendship, their services to show the range of occasions they cater for and about how they are very eco minded, with all their flowers being organically sourced from a local supplier. This makes them into real, passionate and caring people rather than just a faceless business.
 
 We then move down to the **contact us** section. Again this is clean and uncluttered, and simply gives the address, phone number and an email. There is also an iframe of a Google Map to show their exact locaion.
 
@@ -103,15 +111,6 @@ Google Maps was used to create my iframe in the contact section.
 Google Fonts was used to style up all the text on my site.
 [Google Fonts] (https://fonts.google.com/)
 
-### Anna Gilhespy YouTube and website
-I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
-[Anna Gilhespy] (https://ajgreaves.github.io/bootstrap-grid-demo/)
-[Anna Gilhespy] (https://www.youtube.com/watch?v=zDpCejbl1sU&feature=youtu.be)
-
-### Traversy Media - Markdown crash course
-I used Traversy Media's video to understand how to write my Markdown for this README.md file.
-[Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
-
 ### Stormotion
 I checked out this to help understand about user stories
 [Stormotion] (https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/)
@@ -145,18 +144,24 @@ My site is deployed on GitHub. I created a repository and used it for version co
 
 ## Credits
 ### Images
-All my images were sorced from the iStock image library.
+All my images were sourced from the iStock image library.
 [iStock] (https://www.istockphoto.com/gb)
 
-### CSS Tricks
-CSS Tricks was used to help create my landing page background image.
-[CSS Tricks] (https://css-tricks.com/)
+### Anna Gilhespy YouTube and website
+I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
+[Anna Gilhespy] (https://ajgreaves.github.io/bootstrap-grid-demo/)
+[Anna Gilhespy] (https://www.youtube.com/watch?v=zDpCejbl1sU&feature=youtu.be)
+
+### Traversy Media - Markdown crash course
+I used Traversy Media's video to understand how to write my Markdown for this README.md file.
+[Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
+
 
 ---
 
 ### Acknowledgements
 ## McQueens
-I was inspired for some elements of my site for this website for McQueens Florist. It made me want to use a big beautiful image on my landing page. Am I really loved the shopping grid idea.
+I was inspired for some elements of my site from this website for McQueens Florist. It made me want to use a big beautiful image on my landing page. I really loved the shopping grid idea.
 [McQueens] (https://mcqueens.co.uk/)
 
 ## That Flower Shop
