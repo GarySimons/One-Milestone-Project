@@ -3,6 +3,7 @@
 
 /* General */
 
+
 body {
     font-family: 'Merriweather', serif;
     font-size: 14px;
@@ -16,7 +17,6 @@ body {
     margin: 0;
     padding: 0px;
 }
-
 
 #introcontainer {
     height: 100vh;
@@ -33,46 +33,11 @@ body {
     justify-content: center;
 }
 
-#shopcontainer {
-    height: 100%;
-    padding-left: 4%;
-    padding-right: 4%;
-    justify-content: center;
-
-}
-
-#aboutcontainer {
-    height: 100%;
-    padding-left: 4%;
-    padding-right: 4%;
-    justify-content: center;
-}
-
-
-#contactcontainer {
-    padding-top: 45px;
-    padding-bottom: 45px;
-    padding-left: 4%;
-    padding-right: 4%;
-    background-color: #c7a3b1;
-}
-
-
-#socialcontainer {
-    padding-top: 0px;
-    padding-bottom: 20px;
-}
-
 .spacecontainer {
     height: 20px;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
-}
-
-#flowerlogo {
-    height: 25px;
-    width: 100px;
 }
 
 #bottomspace {
@@ -83,7 +48,6 @@ body {
     height: 25px;
     width: 100px;
 }
-
 
 
 /* Navbar */
@@ -116,7 +80,18 @@ body {
     height: auto;
 }
 
+.nav-link {
+    color: #808080 !important;
+}
+
+.nav-link:hover {
+    color: #c7a3b1 !important;
+    transition: .5s ease-in-out;
+}
+
+
 /* Home Page */
+
 
 #intro {
     font-family: 'Merriweather', serif;
@@ -146,7 +121,16 @@ body {
     transition: .5s ease-in-out;
 }
 
+
 /* Shopping page */
+
+
+#shopcontainer {
+    height: 100%;
+    padding-left: 4%;
+    padding-right: 4%;
+    justify-content: center;
+}
 
 #shoppage {
     height: 125px;
@@ -160,10 +144,10 @@ body {
     color: #808080;
     text-align: center;
     letter-spacing: 3px;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
-#subhead {
+.subhead {
     font-family: 'Merriweather', serif;
     font-size: 20px;
     font-weight: 300;
@@ -235,6 +219,22 @@ body {
 
 /* About Us & Contact Us */
 
+
+#aboutcontainer {
+    height: 100%;
+    padding-left: 4%;
+    padding-right: 4%;
+    justify-content: center;
+}
+
+#contactcontainer {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 4%;
+    padding-right: 4%;
+    background-color: #c7a3b1;
+}
+
 #aboutpage {
     height: 125px;
     padding-bottom: 30px;
@@ -250,16 +250,6 @@ body {
 .abouthead {
     padding-bottom: 7px;
     padding-top: 15px;
-}
-
-#subheadabout {
-    font-family: 'Merriweather', serif;
-    font-size: 20px;
-    font-weight: 300;
-    color: #808080;
-    text-align: center;
-    letter-spacing: 3px;
-    padding-bottom: 30px;
 }
 
 .contacthead {
@@ -302,6 +292,10 @@ footer {
     margin: 0;
 }
 
+#socialcontainer {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
 
 .sociallinks {
     padding-top: 35px;

@@ -127,6 +127,10 @@ I used this site to check my HTML code for any problems.
 I used this site to check my CSS code for any problems. 
 [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/)
 
+### Stack Overflow
+I used Stack Overflow to help with a problem I couldn't solve,which was overriding the styles in my Bootstrap Nav Bar. I discovered the !important command.
+[Stack Overflow] (https://stackoverflow.com/questions/43381596/bootstrap-4-navbar-color)
+
 ---
 
 ## Testing
