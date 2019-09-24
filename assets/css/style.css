@@ -185,11 +185,11 @@ body {
 }
 
 .image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: 1s ease;
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: 1s ease;
   backface-visibility: hidden;
 }
 
