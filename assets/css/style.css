@@ -37,8 +37,6 @@ body {
     height: 100%;
     padding-left: 4%;
     padding-right: 4%;
-    padding-top: 30px;
-    padding-bottom: 20px;
     justify-content: center;
 
 }
@@ -47,8 +45,6 @@ body {
     height: 100%;
     padding-left: 4%;
     padding-right: 4%;
-    padding-top: 30px;
-    padding-bottom: 0px;
     justify-content: center;
 }
 
@@ -94,7 +90,6 @@ body {
 
 
 #navbarNavDropdown {
-    color: red;
     font-size: 18px;
 }
 
@@ -119,15 +114,6 @@ body {
     padding: 10px;
     max-width: 170px;
     height: auto;
-}
-
-.nav-link {
-    color: red;
-}
-
-
-.nav-item {
-    color: red;
 }
 
 /* Home Page */
