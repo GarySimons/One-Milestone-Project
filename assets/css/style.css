@@ -58,7 +58,7 @@ body {
     padding-bottom: 45px;
     padding-left: 4%;
     padding-right: 4%;
-    background-color: #b04d87;
+    background-color: #c7a3b1;
 }
 
 
@@ -147,7 +147,7 @@ body {
 
 #shopbutton2:hover {
     color: #fff;
-    background-color: #b04d87;
+    background-color: #c7a3b1;
     border: 0;
     transition: .5s ease-in-out;
 }
@@ -329,12 +329,12 @@ footer {
 }
 
 .sociallinks li a i:hover {
-    background: #b04d87;
+    background: #c7a3b1;
 }
 
 #backtotopbutton{
     color: #fff;
-    background-color: #b04d87;
+    background-color: #c7a3b1;
     text-decoration: none;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -403,7 +403,7 @@ footer {
 
 .buy-button:hover {
     color: #fff;
-    background-color: #b04d87;
+    background-color: #c7a3b1;
     border: 0;
     transition: .5s ease;
 }
