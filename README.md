@@ -18,7 +18,7 @@ A secondary purple colour works in harmony with the grey, and ties in with the f
 
 ## UX
 
-**User Story**
+### User Story
 As a customer, I want to be able to buy some flowers simply and quickly.
 
 I also want to straight away feel as if I can trust this site to give me the service i want, and it's in my price range.
@@ -158,7 +158,7 @@ All my images were sourced from the iStock image library.
 
 ---
 
-### Acknowledgements
+## Acknowledgements
 ### Anna Gilhespy YouTube and website
 I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
 [Anna Gilhespy] (https://ajgreaves.github.io/bootstrap-grid-demo/)
@@ -168,15 +168,15 @@ I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work 
 I used Traversy Media's video to understand how to write my Markdown for this README.md file.
 [Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
 
-## Hawthorn Creative
+### Hawthorn Creative
 This site gave me useful information about how to put my site together. It had advice of what makes a good florist site and what customers are looking for.
 [Hawthorn Creative] (https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
 
-## McQueens
+### McQueens
 I was inspired for some elements of my site from this website for McQueens Florist. It made me want to use a big beautiful image on my landing page. I really loved the shopping grid idea.
 [McQueens] (https://mcqueens.co.uk/)
 
-## That Flower Shop
+### That Flower Shop
 I really liked the simple typography and cleanness of this site. I took inspiration from it's rustic photography.
 [That Flower Shop] (https://www.thatflowershop.co.uk/)
 
