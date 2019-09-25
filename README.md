@@ -3,13 +3,6 @@
 
 ---
 
-## User Story
-As a customer, I want to be able to buy some flowers simply and quickly.
-
-I also want to straight away feel as if I can trust this site to give me the service i want, and it's in my price range.
-
----
-
 ## Overview
 Wild Bunch is a (fictious) high-end florist based in Soho, central London. I wanted to create a strong visual brand for them using beautiful imagery and an upmarket feel.
 
@@ -24,12 +17,20 @@ A secondary purple colour works in harmony with the grey, and ties in with the f
 ---
 
 ## UX
-**User 1: Well off professional.** The user here is a well paid professional or someone with lots of disposable income. They want the best that money can buy, and want to impress people with it. They want to feel that the company matches their expectations of quality and service. 
 
-**User 2: Couple getting married** The users here are a couple looking for a company to provide flowers for their wedding. They need to know if they like your style and it will fit with their plans. They also need to know if you are within their budget. Weddings are often planned far in advance, so they need to feel that you'll still be around for their big day. They have a lot of money and emotion invested in this, so trust and the long term relationship are important here.
+**User Story**
+As a customer, I want to be able to buy some flowers simply and quickly.
 
-**User 3: Last minute surprise** The user here is looking to get flowers as a quick gift for someone. They need to know that you can be trusted to either have the flowers ready to be collected, or get them delivered on time. Convenience and speed are important factors here.
+I also want to straight away feel as if I can trust this site to give me the service i want, and it's in my price range.
 
+**User 1: Well off professional** 
+The user here is a well paid professional or someone with lots of disposable income. They want the best that money can buy, and want to impress people with it. They want to feel that the company matches their expectations of quality and service. 
+
+**User 2: Couple getting married** 
+The users here are a couple looking for a company to provide flowers for their wedding. They need to know if they like your style and it will fit with their plans. They also need to know if you are within their budget. Weddings are often planned far in advance, so they need to feel that you'll still be around for their big day. They have a lot of money and emotion invested in this, so trust and the long term relationship are important here.
+
+**User 3: Last minute surprise** 
+The user here is looking to get flowers as a quick gift for someone. They need to know that you can be trusted to either have the flowers ready to be collected, or get them delivered on time. Convenience and speed are important factors here.
 
 
 By having the **landing page** as a beautiful flower image, the user immediately knows that they've come to a high-quality site. By not crowding the home page with clutter, I have created a calm and peaceful feel to make them relaxed and reasured. There is minimal furniture, making it feel more luxurious. Simple use of typography that simply states what the website does, and a large tastful button invites you to start shopping. 
@@ -139,10 +140,14 @@ I have constantly tested my site using the inspect tools. This has allowed me to
 To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service] (https://validator.w3.org/), and [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/).
 This allowed me to catch any problems such as rouge puntuation marks or incorrect code. This helped me go back in and change the errors so my code was more efficient and worked properly.
 
+Throughout the building of this site, I have constantly been testing that buttons and links are working correctly. When I make any changes to my HTML or CSS, I automatically make sure it does what I want it to do. If it doesn't work, I try and fix it and test again until it is successful.
+
 ---
 
 ## Deployment
 My site is deployed on GitHub. I created a repository and used it for version control and sharing.
+
+I have been pushing my code through to GitHub very regularly as, on occasion, something has gone wrong and I've had to go into my history and retrieve bits of code that I know will work. 
 
 ---
 
@@ -151,6 +156,9 @@ My site is deployed on GitHub. I created a repository and used it for version co
 All my images were sourced from the iStock image library.
 [iStock] (https://www.istockphoto.com/gb)
 
+---
+
+### Acknowledgements
 ### Anna Gilhespy YouTube and website
 I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
 [Anna Gilhespy] (https://ajgreaves.github.io/bootstrap-grid-demo/)
@@ -160,10 +168,10 @@ I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work 
 I used Traversy Media's video to understand how to write my Markdown for this README.md file.
 [Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
 
+## Hawthorn Creative
+This site gave me useful information about how to put my site together. It had advice of what makes a good florist site and what customers are looking for.
+[Hawthorn Creative] (https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
 
----
-
-### Acknowledgements
 ## McQueens
 I was inspired for some elements of my site from this website for McQueens Florist. It made me want to use a big beautiful image on my landing page. I really loved the shopping grid idea.
 [McQueens] (https://mcqueens.co.uk/)
@@ -172,6 +180,3 @@ I was inspired for some elements of my site from this website for McQueens Flori
 I really liked the simple typography and cleanness of this site. I took inspiration from it's rustic photography.
 [That Flower Shop] (https://www.thatflowershop.co.uk/)
 
-## Hawthorn Creative
-This site gave me useful information about how to put my site together. It had advice of what makes a good florist site and what customers are looking for.
-[Hawthorn Creative] (https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
