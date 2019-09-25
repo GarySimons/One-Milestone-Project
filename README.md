@@ -21,16 +21,17 @@ A secondary purple colour works in harmony with the grey, and ties in with the f
 ### User Story
 As a customer, I want to be able to buy some flowers simply and quickly.
 
-I also want to straight away feel as if I can trust this site to give me the service i want, and it's in my price range.
+I also want to straight away feel as if I can trust this site to give me the service I want, and it's in my price range.
 
-**User 1: Well off professional** 
+**User 1: Well off professional.** 
 The user here is a well paid professional or someone with lots of disposable income. They want the best that money can buy, and want to impress people with it. They want to feel that the company matches their expectations of quality and service. 
 
-**User 2: Couple getting married** 
+**User 2: Couple getting married.** 
 The users here are a couple looking for a company to provide flowers for their wedding. They need to know if they like your style and it will fit with their plans. They also need to know if you are within their budget. Weddings are often planned far in advance, so they need to feel that you'll still be around for their big day. They have a lot of money and emotion invested in this, so trust and the long term relationship are important here.
 
-**User 3: Last minute surprise** 
+**User 3: Last minute surprise.** 
 The user here is looking to get flowers as a quick gift for someone. They need to know that you can be trusted to either have the flowers ready to be collected, or get them delivered on time. Convenience and speed are important factors here.
+
 
 
 By having the **landing page** as a beautiful flower image, the user immediately knows that they've come to a high-quality site. By not crowding the home page with clutter, I have created a calm and peaceful feel to make them relaxed and reasured. There is minimal furniture, making it feel more luxurious. Simple use of typography that simply states what the website does, and a large tastful button invites you to start shopping. 
@@ -76,7 +77,7 @@ The logo in the navigation bar is a home button, but it’s also helpful to have
 
 ---
 
-## Feature left to implement
+## Features left to implement
 I would like to add more shopping pages to the site. They would follow the same style as the bouquets page, but be selling items associated with a florist. These could be house plants, garden plants, vases, pots, gardening tools and seeds. These would be on a drop down menu from the Nav Bar.
 
 Another idea would be a flower arranging school to be held at the shop. These would be popular for parties or just people with an interest. 
