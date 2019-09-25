@@ -7,6 +7,8 @@ html {
     scroll-behavior: smooth;
 }
 
+
+
 body {
     font-family: 'Merriweather', serif;
     font-size: 14px;
@@ -15,6 +17,11 @@ body {
     letter-spacing: 3px;
     text-align: center;
 }
+
+.row {
+    margin: 0;
+}
+
 
 #maincontainer {
     margin: 0;
@@ -62,7 +69,7 @@ body {
 
 #navcontainer {
     position: sticky;
-    width: 100vw;
+    width: 99vw;
     top: 0;
     left: 0;
     padding-left: 0;
@@ -103,7 +110,7 @@ body {
     letter-spacing: 3px;
 }
 
-#shopbutton2 {
+#shopbutton {
     text-decoration: none;
     padding-top: 40px;
     height: 100px;
@@ -114,9 +121,10 @@ body {
     justify-content: center;
     background-color: rgba(0,0,0,0.5);
     letter-spacing: 3px;
+    cursor: pointer;
 }
 
-#shopbutton2:hover {
+#shopbutton:hover {
     color: #fff;
     background-color: #c7a3b1;
     border: 0;
@@ -140,7 +148,7 @@ body {
     padding-top: 60px;
 }
 
-.head2 {
+.head {
     font-family: 'Merriweather', serif;
     font-weight: 300;
     color: #808080;
@@ -176,11 +184,12 @@ body {
     width: 100%;
     height: auto;
     transition: 1s ease;
-  backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 .flower:hover .image{
-  opacity: 0.7;
+    opacity: 0.7;
+    cursor: pointer;
 }
 
 .flowername {
