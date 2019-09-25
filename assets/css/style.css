@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap:100,200,300,400,500,600,700');
+https://fonts.googleapis.com/css?family=Merriweather:300&display=swap%27
 
 
 /* General */
@@ -7,14 +7,13 @@ html {
     scroll-behavior: smooth;
 }
 
-
-
 body {
     font-family: 'Merriweather', serif;
     font-size: 14px;
     font-weight: 300;
     color: #808080;
     letter-spacing: 3px;
+    line-height: 22px;
     text-align: center;
 }
 
@@ -103,11 +102,7 @@ body {
 
 
 #intro {
-    font-family: 'Merriweather', serif;
-    font-weight: 300;
     color: #fff;
-    text-align: center;
-    letter-spacing: 3px;
 }
 
 #shopbutton {
@@ -149,21 +144,11 @@ body {
 }
 
 .head {
-    font-family: 'Merriweather', serif;
-    font-weight: 300;
-    color: #808080;
-    text-align: center;
-    letter-spacing: 3px;
     padding-top: 15px;
 }
 
 .subhead {
-    font-family: 'Merriweather', serif;
     font-size: 20px;
-    font-weight: 300;
-    color: #808080;
-    text-align: center;
-    letter-spacing: 3px;
     padding-bottom: 20px;
 }
 
@@ -193,38 +178,23 @@ body {
 }
 
 .flowername {
-    font-weight: 100;
     font-size: 16px;
-    color: #808080;
     padding-top: 10px;
     margin-bottom: 0;
 }
 
 .flowerprice {
-    font-weight: 100;
-    color: #808080;
     font-size: 13px;
     margin-bottom: 1px;
 }
 
 .flower-prices {
-    font-family: 'Merriweather', serif;
-    font-weight: 100;
-    color: #808080;
-    text-align: center;
-    font-size: 3px;
     padding-top: 0px;
     padding-bottom: 20px;
-    letter-spacing: 3px;
 }
 
 .custom-select {
-    font-family: 'Merriweather', serif;
-    font-weight: 100;
-    color: #808080;
-    text-align: center;
     font-size: 12px;
-    letter-spacing: 3px;
     }
     
 
@@ -277,7 +247,7 @@ body {
 #email {
     color: #fff;
     text-decoration: none;
-      transition: .25s ease;
+    transition: .25s ease;
 }
 
 #email:hover {
@@ -379,11 +349,6 @@ footer {
 .flower-text{
     padding-bottom: 10px;
     text-decoration: none;
-    font-family: 'Merriweather', serif;
-    font-weight: 300;
-    color: #808080;
-    text-align: center;
-    letter-spacing: 3px;
 }
 
 .button {
