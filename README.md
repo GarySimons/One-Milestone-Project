@@ -169,6 +169,10 @@ I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work 
 I used Traversy Media's video to understand how to write my Markdown for this README.md file.
 [Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
 
+### Online Tutorials - YouTube
+I used this to figure out how to scroll smoothly
+[Online Tutorials] (https://www.youtube.com/watch?v=-yApsBs5rR4)
+
 ### Hawthorn Creative
 This site gave me useful information about how to put my site together. It had advice of what makes a good florist site and what customers are looking for.
 [Hawthorn Creative] (https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
