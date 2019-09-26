@@ -17,6 +17,19 @@ A secondary purple colour works in harmony with the grey, and ties in with the f
 
 ## UX
 
+The Navigation bar is always visible when you are on the site, allowing for easy navigation to any part, no matter where you first land. 
+
+The home button and logo will take you right back to the landing page where you can get your bearings and start your journey.
+
+The home page has a clear button to direct the user straight to the shopping section if they wish. Once there, there are beautiful flower images to entice which are clickable to show more detal and give options on price and a 'Buy Now' button.
+
+The About Us page shows off the owners and their beliefs and services. This builds them up as real people you feel you know about and builds a connection.
+
+The Contact Us box gives the address and contact details, as well as a detailed map of where they can be found.
+
+In the footer, there are links to all their social media, so you can connect with them more.
+
+
 ### User Story
 As a customer, I want to be able to buy some flowers simply and quickly.
 
@@ -30,7 +43,6 @@ The users here are a couple looking for a company to provide flowers for their w
 
 **User 3: Last minute surprise.** 
 The user here is looking to get flowers as a quick gift for someone. They need to know that you can be trusted to either have the flowers ready to be collected, or get them delivered on time. Convenience and speed are important factors here.
-
 
 
 By having the **landing page** as a beautiful flower image, the user immediately knows that they've come to a high-quality site. By not crowding the home page with clutter, I have created a calm and peaceful feel to make them relaxed and reasured. There is minimal furniture, making it feel more luxurious. Simple use of typography that simply states what the website does, and a large tastful button invites you to start shopping. 
@@ -130,15 +142,42 @@ Another idea would be a flower arranging school to be held at the shop. These wo
 ---
 
 ## Testing
-
-
-I have constantly tested my site using the inspect tools. This has allowed me to make sure the responsive design works correctly and looks good on all formats and sizes. I have used the tools here to see the outcome of different changes to my code and was able to use that to change the real HTML and CSS.
-
 To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service](https://validator.w3.org/), and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 This allowed me to catch any problems such as rouge puntuation marks or incorrect code. This helped me go back in and change the errors so my code was more efficient and worked properly.
 
-Throughout the building of this site, I have constantly been testing that buttons and links are working correctly. 
-When I make any changes to my HTML or CSS, I automatically make sure it does what I want it to do. If it doesn't work, I try and fix it and test again until it is successful.
+
+#### Navigation bar
+1. Test that works at all sizes and toggles down when goes to mobile size by expanding and contracting screen size. 
+2. Test all links by hovering over to change colour and by and by making sure they scroll to relevant sections by clicking between them.
+3. Test that it is always at the top of the site by scrolling down the pages.
+
+#### Home page
+1. Test the image fits the whole screen at all sizes by expanding and contracting screen size.
+2. Test the main message is visible at all sizes by expanding and contracting screen size.
+3. Test shop buton works by hovering over to change colour and by clicking and seeing if it takes you to shopping page.
+
+#### Shopping page
+1. Make sure grid of flowers flows with the page breaks by expanding and contracting screen size.
+2. Test the heading and subheading are visible on all sizes by expanding and contracting screen size.
+3. Test hover of flower images by hovering cursor over them to make sure they change.
+4. Test modal, by clicking on flower image to bring it up. Check selection box, buy link and close X at top.
+
+#### About us
+1. Make sure grid of images flows with the page breaks by expanding and contracting screen size.
+2. Test the heading and subheading are visible on all sizes by expanding and contracting screen size.
+3. Test text is readable and behaves the desired way by expanding and contracting screen size.
+
+#### Contact us
+1. Make sure the text and map flow with the page breaks by expanding and contracting screen size.
+2. Make sure map is clickable and can open into larger map.
+3. Check hover on email by placing cursor over it.
+
+#### Social buttons
+1. Test buttons are live and hover works by placing cursor over them to change colour.
+
+#### Back to top
+1. Test button is live and hover works by placing cursor over them to change colour.
+2. Test it takes you back to home page by clicking on it.
 
 ---
 
