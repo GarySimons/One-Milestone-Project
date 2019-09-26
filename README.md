@@ -53,6 +53,9 @@ Lastly I felt the user would benefit for a **back to top** button (in addition t
 
 ## Wireframes
 
+These are my original wireframes for my site. They have mostly stayed the same, only the About section on the tablet seems to be different to what I planned.
+
+
 ![IMG](/wireframes/desktop-1-home-wireframe.png)
 
 ![IMG](/wireframes/desktop-2-shop-wireframe.png)
@@ -146,7 +149,7 @@ I have been pushing my code through to GitHub very regularly as, on occasion, so
 ## Credits
 ### Images
 All my images were sourced from the iStock image library.
-[iStock] (https://www.istockphoto.com/gb)
+[iStock](https://www.istockphoto.com/gb)
 
 ---
 
