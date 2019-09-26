@@ -1,5 +1,4 @@
-# Gary Simons - Code Institude Student
-## Milestone Project One - Wild Bunch Florist
+# Milestone Project One - Wild Bunch Florist
 
 ---
 
@@ -85,53 +84,19 @@ Another idea would be a flower arranging school to be held at the shop. These wo
 ---
 
 ## Technologies used
-### Bootstrap
-Bootstrap was used to build the structure of the site, so was really helpful when building the nav bar, modals and selection drop down menus.
-[Bootstrap] (https://getbootstrap.com/)
 
-### Font Awesome
-Font Awesome was used to help create the social buttons. 
-[Font Awesome] (https://fontawesome.com/)
+1. HTML
+2. CSS
+3. Bootstrap
+4. Font Awesome
+5. Google Maps
+6. Google Fonts
 
-### CSS Tricks
-CSS Tricks was used to help create my landing page background image.
-[CSS Tricks] (https://css-tricks.com/)
+---
 
-### Balsamiq
-Balsamiq was used to create my wire frames at the start of the project and help plan the pages.
-[Balsamiq] (https://wireframestogo.com/)
+## Wireframes
 
-### Boostnote
-Boostnote helped me understand how to write in Markdown for this README.md file.
-[Boostnote] (https://boostnote.io/)
-
-### Google Maps
-Google Maps was used to create my iframe in the contact section.
-[Google Maps] (https://www.google.co.uk/maps/)
-
-### Google Fonts
-Google Fonts was used to style up all the text on my site.
-[Google Fonts] (https://fonts.google.com/)
-
-### Stormotion
-I checked out this to help understand about user stories
-[Stormotion] (https://stormotion.io/blog/how-to-write-a-good-user-story-with-examples-templates/)
-
-### GitHub
-I am using GitHub to store my project. I have had to use older versions of my code stored in GitHub on a couple of occasions when my code has broken.
-[GitHub] (https://github.com)
-
-### W3C Markup Validation Service
-I used this site to check my HTML code for any problems. 
-[W3C Markup Validation Service] (https://validator.w3.org/)
-
-### W3C CSS Validation Service
-I used this site to check my CSS code for any problems. 
-[W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/)
-
-### Stack Overflow
-I used Stack Overflow to help with a problem I couldn't solve,which was overriding the styles in my Bootstrap Nav Bar. I discovered the !important command.
-[Stack Overflow] (https://stackoverflow.com/questions/43381596/bootstrap-4-navbar-color)
+![IMG](/wireframes/desktop-1-home-wireframe.png)
 
 ---
 
@@ -162,26 +127,18 @@ All my images were sourced from the iStock image library.
 ## Acknowledgements
 ### Anna Gilhespy YouTube and website
 I used Anna Gilhespy's Bootstrap tutorial video and her website to help me work out the structure of the content.
-[Anna Gilhespy] (https://ajgreaves.github.io/bootstrap-grid-demo/)
-[Anna Gilhespy] (https://www.youtube.com/watch?v=zDpCejbl1sU&feature=youtu.be)
-
-### Traversy Media - Markdown crash course
-I used Traversy Media's video to understand how to write my Markdown for this README.md file.
-[Traversy Media] (https://www.youtube.com/watch?v=HUBNt18RFbo)
-
-### Online Tutorials - YouTube
-I used this to figure out how to scroll smoothly
-[Online Tutorials] (https://www.youtube.com/watch?v=-yApsBs5rR4)
+[Anna Gilhespy](https://ajgreaves.github.io/bootstrap-grid-demo/)
+[Anna Gilhespy](https://www.youtube.com/watch?v=zDpCejbl1sU&feature=youtu.be)
 
 ### Hawthorn Creative
 This site gave me useful information about how to put my site together. It had advice of what makes a good florist site and what customers are looking for.
-[Hawthorn Creative] (https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
+[Hawthorn Creative](https://hawthorncreative.com/blog/how-to-optimize-your-florist-website-to-attract-wedding-clients/)
 
 ### McQueens
 I was inspired for some elements of my site from this website for McQueens Florist. It made me want to use a big beautiful image on my landing page. I really loved the shopping grid idea.
-[McQueens] (https://mcqueens.co.uk/)
+[McQueens](https://mcqueens.co.uk/)
 
 ### That Flower Shop
 I really liked the simple typography and cleanness of this site. I took inspiration from it's rustic photography.
-[That Flower Shop] (https://www.thatflowershop.co.uk/)
+[That Flower Shop](https://www.thatflowershop.co.uk/)
 
