@@ -148,6 +148,8 @@ This allowed me to catch any problems such as rouge punctuation marks or incorre
 
 First testing with W3C threw up a problem with my use of Bootstrap buttons as anchor tags. I had to recreate them as an id, which worked.
 
+Another problem picked up was sizes of images on the HTML rather than CSS, which I fixed.
+
 
 
 ### Navigation bar
