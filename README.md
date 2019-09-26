@@ -97,7 +97,19 @@ Another idea would be a flower arranging school to be held at the shop. These wo
 ## Wireframes
 
 ![IMG](/wireframes/desktop-1-home-wireframe.png)
-
+![IMG](/wireframes/desktop-2-shop-wireframe.png)
+![IMG](/wireframes/desktop-3-shop-detail-wireframe.png)
+![IMG](/wireframes/desktop-4-about-wireframe.png)
+![IMG](/wireframes/desktop-5-contact-wireframe.png)
+![ING](/wireframes/phone-1-home-wireframe.png)
+![IMG](/wireframes/phone-2-shop-wireframe.png)
+![IMG](/wireframes/phone-3-shop-detail-wireframe.png)
+![IMG](/wireframes/phone-4-about-wireframe.png)
+![IMG](/wireframes/phone-5-contact-wireframe.png)
+![IMG](/wireframes/tablet-1-home-wireframe.png)
+![IMG](/wireframes/tablet-2-shop-wireframe.png)
+![IMG](/wireframes/tablet-3-shop-detail-wireframe.png)
+![IMG](/wireframes/tablet-4-about-map-wireframe.png)
 ---
 
 ## Testing
