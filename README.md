@@ -183,6 +183,11 @@ First testing with W3C threw up a problem with my use of Bootstrap buttons as an
 1. Test button is live and hover works by placing cursor over them to change colour.
 2. Test it takes you back to home page by clicking on it.
 
+### Real life user testing
+I tested this out with several family members and friends. 
+
+This resulted in the navigation links becoming bigger, adding images to my About us section, putting on a back to top button and toning down the purple colour to be more muted.
+
 ---
 
 ## Deployment
@@ -202,6 +207,11 @@ My site is deployed on GitHub.
 12. Then copy the second 'push' line and paste this into the Cloud9 terminal too.
 13. It will then ask firstly for your username, and then your password.
 14. Go back to GitHub and you will see that your file has now been saved to this remote repository.
+15. At regular intervals it is a good idea to commit your files in case something goes wrong.
+16. Command git status will show you files that need to be added.
+17. Command git add -A will add all those files.
+18. Then of course you need a git commit -m "with a message".
+19. you then git push and enter your username and password.
 
 
 I have been pushing my code through to GitHub very regularly as, on occasion, something has gone wrong and I've had to go into my history and retrieve bits of code that I know will work. 
