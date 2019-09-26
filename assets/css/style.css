@@ -1,4 +1,4 @@
-https://fonts.googleapis.com/css?family=Merriweather:300&display=swap%27
+@import url('https://fonts.googleapis.com/css?family=Merriweather:300&display=swap');
 
 
 /* General */
@@ -33,9 +33,6 @@ body {
     position: relative;
     
     background: url(../images/flower_main_big.jpg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
     
     align-items: center;
@@ -68,7 +65,7 @@ body {
 
 #navcontainer {
     position: sticky;
-    width: 99vw;
+    width: 98vw;
     top: 0;
     left: 0;
     padding-left: 0;
