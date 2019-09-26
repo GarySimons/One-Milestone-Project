@@ -49,23 +49,24 @@ By having the **landing page** as a beautiful flower image, the user immediately
 
 I wanted to make it easy for anyone coming to the site to immediately see what was for sale and with just a few clicks to purchase and have it delivered.
 
-Clicking on the **Shop** button takes the user to a simple, clean grid of bouquets for sale. Tasteful typography under each image gives a name and a starting price for each. I created a very subtle hover over each image to show that it's been highlighed, agfain keeping the feel upmarket.
+Clicking on the **Shop** button takes the user to a simple, clean grid of bouquets for sale. Tasteful typography under each image gives a name and a starting price for each. I created a very subtle hover over each image to show that it's been highlighed, again keeping the feel upmarket.
 
 If the user is interested in one of the bouquets and wishes to discover more, then clicking on the image reveals a **modal**. This modal echoes the design of the shopping page, and has a description and a subheading asking to select from the three sizes that you would like, and a large **buy now** button to entice you. This would (if it where a live link) take you to the basket page where you would be able tp fill in your details and complete your order.
 
-Additionally, with the **about Us** section, I wanted to introduce and show the personality of the owners and what they believe in and stand for. I feel this helps the user to relate to the sellers as people with principles and standards that they themselves would like to think they have in common. This has a images to quickly establish the links. There are also a few paragraphs about their humble beginnings and their friendship, their services to show the range of occasions they cater for and about how they are very eco minded, with all their flowers being organically sourced from a local supplier. This makes them into real, passionate and caring people rather than just a faceless business.
+Additionally, with the **about Us** section, I wanted to introduce and show the personality of the owners and what they believe in and stand for. I feel this helps the user to relate to the sellers as people with principles and standards that they themselves would like to think they have in common. This has images to quickly establish the visual links. There are also a few paragraphs about their humble beginnings and their friendship, their services to show the range of occasions they cater for and about how they are very eco minded, with all their flowers being organically sourced from a local supplier. This makes them into real, passionate and caring people rather than just a faceless business.
 
 We then move down to the **contact us** section. Again this is clean and uncluttered, and simply gives the address, phone number and an email. There is also an iframe of a Google Map to show their exact locaion.
 
-Then is on the the **social buttons** linking you to their various channels. Again these have the same purple hover when the cursor moves over them tp match the other buttons.
+Then it's on the the **social buttons** linking you to their various channels. Again these have the same purple hover when the cursor moves over them to match the other buttons.
 
-Lastly I felt the user would benefit for a **back to top** button (in addition to the logo in the nav bar) to allow them to navigate back to the home page.
+Lastly I felt the user would benefit from a **back to top** button (in addition to the logo in the nav bar) to allow them to navigate back to the home page.
 
 ---
 
 ## Wireframes
 
 These are my original wireframes for my site. They have mostly stayed the same, only the About section on the tablet seems to be different to what I planned.
+
 
 
 ![IMG](/wireframes/desktop-1-home-wireframe.png)
@@ -143,39 +144,42 @@ Another idea would be a flower arranging school to be held at the shop. These wo
 
 ## Testing
 To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service](https://validator.w3.org/), and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
-This allowed me to catch any problems such as rouge puntuation marks or incorrect code. This helped me go back in and change the errors so my code was more efficient and worked properly.
+This allowed me to catch any problems such as rouge punctuation marks or incorrect code. This helped me go back in and change the errors so my code was more efficient and worked properly.
+
+First testing with W3C threw up a problem with my use of Bootstrap buttons as anchor tags. I had to recreate them as an id, which worked.
 
 
-#### Navigation bar
+
+### Navigation bar
 1. Test that works at all sizes and toggles down when goes to mobile size by expanding and contracting screen size. 
 2. Test all links by hovering over to change colour and by and by making sure they scroll to relevant sections by clicking between them.
 3. Test that it is always at the top of the site by scrolling down the pages.
 
-#### Home page
+### Home page
 1. Test the image fits the whole screen at all sizes by expanding and contracting screen size.
 2. Test the main message is visible at all sizes by expanding and contracting screen size.
 3. Test shop buton works by hovering over to change colour and by clicking and seeing if it takes you to shopping page.
 
-#### Shopping page
+### Shopping page
 1. Make sure grid of flowers flows with the page breaks by expanding and contracting screen size.
 2. Test the heading and subheading are visible on all sizes by expanding and contracting screen size.
 3. Test hover of flower images by hovering cursor over them to make sure they change.
 4. Test modal, by clicking on flower image to bring it up. Check selection box, buy link and close X at top.
 
-#### About us
+### About us
 1. Make sure grid of images flows with the page breaks by expanding and contracting screen size.
 2. Test the heading and subheading are visible on all sizes by expanding and contracting screen size.
 3. Test text is readable and behaves the desired way by expanding and contracting screen size.
 
-#### Contact us
+### Contact us
 1. Make sure the text and map flow with the page breaks by expanding and contracting screen size.
 2. Make sure map is clickable and can open into larger map.
 3. Check hover on email by placing cursor over it.
 
-#### Social buttons
+### Social buttons
 1. Test buttons are live and hover works by placing cursor over them to change colour.
 
-#### Back to top
+### Back to top
 1. Test button is live and hover works by placing cursor over them to change colour.
 2. Test it takes you back to home page by clicking on it.
 
