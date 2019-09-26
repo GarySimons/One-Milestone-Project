@@ -51,6 +51,38 @@ Lastly I felt the user would benefit for a **back to top** button (in addition t
 
 ---
 
+## Wireframes
+
+![IMG](/wireframes/desktop-1-home-wireframe.png)
+
+![IMG](/wireframes/desktop-2-shop-wireframe.png)
+
+![IMG](/wireframes/desktop-3-shop-detail-wireframe.png)
+
+![IMG](/wireframes/desktop-4-about-wireframe.png)
+
+![IMG](/wireframes/desktop-5-contact-wireframe.png)
+
+![ING](/wireframes/phone-1-home-wireframe.png)
+
+![IMG](/wireframes/phone-2-shop-wireframe.png)
+
+![IMG](/wireframes/phone-3-shop-detail-wireframe.png)
+
+![IMG](/wireframes/phone-4-about-wireframe.png)
+
+![IMG](/wireframes/phone-5-contact-wireframe.png)
+
+![IMG](/wireframes/tablet-1-home-wireframe.png)
+
+![IMG](/wireframes/tablet-2-shop-wireframe.png)
+
+![IMG](/wireframes/tablet-3-shop-detail-wireframe.png)
+
+![IMG](/wireframes/tablet-4-about-map-wireframe.png)
+
+---
+
 ## Features
 ### Navigation bar
 This holds all the links to the sections of the site: Logo (home button), about us and aontact us. This allows the user to navigate quickly to the relevant section. The bar is set to sticky, so scolls down with the pages, making it easier to navigate, and also show the range of sections all the time.
@@ -92,24 +124,6 @@ Another idea would be a flower arranging school to be held at the shop. These wo
 5. Google Maps
 6. Google Fonts
 
----
-
-## Wireframes
-
-![IMG](/wireframes/desktop-1-home-wireframe.png)
-![IMG](/wireframes/desktop-2-shop-wireframe.png)
-![IMG](/wireframes/desktop-3-shop-detail-wireframe.png)
-![IMG](/wireframes/desktop-4-about-wireframe.png)
-![IMG](/wireframes/desktop-5-contact-wireframe.png)
-![ING](/wireframes/phone-1-home-wireframe.png)
-![IMG](/wireframes/phone-2-shop-wireframe.png)
-![IMG](/wireframes/phone-3-shop-detail-wireframe.png)
-![IMG](/wireframes/phone-4-about-wireframe.png)
-![IMG](/wireframes/phone-5-contact-wireframe.png)
-![IMG](/wireframes/tablet-1-home-wireframe.png)
-![IMG](/wireframes/tablet-2-shop-wireframe.png)
-![IMG](/wireframes/tablet-3-shop-detail-wireframe.png)
-![IMG](/wireframes/tablet-4-about-map-wireframe.png)
 ---
 
 ## Testing
