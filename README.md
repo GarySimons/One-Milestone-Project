@@ -130,17 +130,36 @@ Another idea would be a flower arranging school to be held at the shop. These wo
 ---
 
 ## Testing
+
+
 I have constantly tested my site using the inspect tools. This has allowed me to make sure the responsive design works correctly and looks good on all formats and sizes. I have used the tools here to see the outcome of different changes to my code and was able to use that to change the real HTML and CSS.
 
-To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service] (https://validator.w3.org/), and [W3C CSS Validation Service] (https://jigsaw.w3.org/css-validator/).
+To test both my HTML and my CSS, I ran them through the W3C validation websites. [W3C Markup Validation Service](https://validator.w3.org/), and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 This allowed me to catch any problems such as rouge puntuation marks or incorrect code. This helped me go back in and change the errors so my code was more efficient and worked properly.
 
-Throughout the building of this site, I have constantly been testing that buttons and links are working correctly. When I make any changes to my HTML or CSS, I automatically make sure it does what I want it to do. If it doesn't work, I try and fix it and test again until it is successful.
+Throughout the building of this site, I have constantly been testing that buttons and links are working correctly. 
+When I make any changes to my HTML or CSS, I automatically make sure it does what I want it to do. If it doesn't work, I try and fix it and test again until it is successful.
 
 ---
 
 ## Deployment
-My site is deployed on GitHub. I created a repository and used it for version control and sharing.
+My site is deployed on GitHub. 
+
+1. At the start of your project when you have created your Cloud9 environment it's a good idea to start commiting your files to a repository.
+2. In Cloud9, create your first index.html file.
+3. To start committing your file, open a new terminal and type in the command of git init. This will intialize a local repository.
+4. Go to GitHub and create a new remote repository there. 
+5. Click on New, and give it a name and a description.
+6. Click Create Repository. This will give you some code.
+7. Back in Cloud9, we need to tell the local repository how to link to the remote one.
+8. We want to add our index.html file, so we use the command git add index.html.
+9. We then use the command git commit -m "Intial commit", which is the standard message when starting a repository.
+10.We need to tell it how to find the remote repository, so go back to GitHub and to the box with the heading 'or push an existing repository from the command center.
+11. Copy the top line of code into your Cloud9 terminal and press return.
+12. Then copy the second 'push' line and paste this into the Cloud9 terminal too.
+13. It will then ask firstly for your username, and then your password.
+14. Go back to GitHub and you will see that your file has now been saved to this remote repository.
+
 
 I have been pushing my code through to GitHub very regularly as, on occasion, something has gone wrong and I've had to go into my history and retrieve bits of code that I know will work. 
 
