@@ -225,6 +225,9 @@ I have been pushing my code through to GitHub very regularly as, on occasion, so
 All my images were sourced from the iStock image library.
 [iStock](https://www.istockphoto.com/gb)
 
+### Text
+All text was written by me.
+
 ---
 
 ## Acknowledgements
